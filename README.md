@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/0300hrs/news-homepage-main)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://0300hrs.github.io/news-homepage-main/)
 
 ### Built with
 
